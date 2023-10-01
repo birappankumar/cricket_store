@@ -8,8 +8,8 @@ const Login = () => {
   const { setLogin } = useAuth();
   const navigate = useNavigate();
   const guestLogin = {
-    email: "adarshbalika@gmail.com",
-    pass: "adarshbalika",
+    email: "birappankumaraur@gmail.com",
+    pass: "@1234",
   };
   const loginHandler = ({ email, pass }, setLogin, navigate) => {
     (async () => {
@@ -45,6 +45,7 @@ const Login = () => {
                 class="email-validate"
                 id="email-label"
                 placeholder="Enter Valid Email ID"
+                
               />
             </div>
             <div class="password">

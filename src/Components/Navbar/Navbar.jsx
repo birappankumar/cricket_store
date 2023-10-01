@@ -22,7 +22,7 @@ export const Navbar = () => {
       <div className="navbar-wrapper">
         <div className="ecom-title">
           <Link className="ecom-name" to="/">
-            CricStore
+            The Cricket Coop
           </Link>
         </div>
 

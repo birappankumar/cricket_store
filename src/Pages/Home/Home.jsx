@@ -41,7 +41,7 @@ const Home = () => {
       <footer className="footer">
         <div className="address">
           <h3 className="footer-headings">Visit our Store</h3>
-          <div className="address">XYZ Street , Banglore -000 001</div>
+          <div className="address">Patna cricket store</div>
         </div>
         <div className="quick-links">
           <h3 className="footer-headings">Quick Links</h3>
@@ -60,7 +60,7 @@ const Home = () => {
         </div>
         <div className="contact-us">
           <h3 className="footer-headings">Contact Us</h3>
-          <a href="" className="page-links">
+          <a href="birappankumaraur@gmail.com" className="page-links">
             Email
           </a>
           <a href="" className="page-links">
@@ -70,8 +70,8 @@ const Home = () => {
         <div className="follow-us">
           <h3 className="footer-headings">Follow Us On </h3>
           <div className="social-links">
-            <a href="#" className="socials-icon fab fa-youtube"></a>
-            <a href="#" className="socials-icon fab fa-instagram"></a>
+            <a href="https://www.linkedin.com/in/birappan-kumar-3aa5451a7/" className="socials-icon fab fa-linkedin"></a>
+            <a href="https://www.instagram.com/iitp_birappan/" className="socials-icon fab fa-instagram"></a>
             <a href="#" className="socials-icon fab fa-facebook"></a>
           </div>
         </div>
