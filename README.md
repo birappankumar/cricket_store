@@ -3,16 +3,8 @@
 </img>
 </p>
   
-  ## Live Project
-  
- https://cricstore-react.netlify.app/
-  
 ## One stop Ecommerce Website to shop your favourite Cricketing Equipments
 ### Shop with Quality and Trust !
-  
-## Demo
-
-https://user-images.githubusercontent.com/90499683/178766537-54745d11-8072-44b4-aa64-eee83a67ed3c.mp4
 
 
 ## Run Locally
