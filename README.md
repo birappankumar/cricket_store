@@ -9,12 +9,6 @@
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/atharvabhanage02/ECom-CricStore.git
-```
-
 Go to the project directory
 
 ```bash
