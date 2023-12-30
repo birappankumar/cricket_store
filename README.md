@@ -2,7 +2,7 @@
 ## One stop Ecommerce Website to shop your favourite Cricketing Equipments
 ### Shop with Quality and Trust !
 
-My project is live at https://mi-colone-7h26.vercel.app/.
+My project is live at https://cricket-store.vercel.app/.
 
 ## Run Locally
 
